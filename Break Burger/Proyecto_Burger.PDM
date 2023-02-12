@@ -1,0 +1,272 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Instalador
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=Yes
+Jet 2.x=Yes
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+E:\Program File\VB98\Wizards\CHARTWIZ.OCX=
+E:\Program File\VB98\Wizards\DATAFORM.OCX=
+C:\Windows\SysWOW64\FM20.DLL=
+E:\Program File\VB98\Wizards\PDWizard\PDADDIN.DLL=
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\dte80.olb=
+E:\Program File\VB98\Wizards\MSDATOBJ.DLL=
+C:\Windows\System32\sysmon.ocx=
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=
+C:\Windows\SysWOW64\mshtml.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\Windows\SysWOW64\COMCTL32.OCX=
+C:\Windows\SysWOW64\COMCT332.OCX=
+C:\Windows\SysWOW64\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\login.ini=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\TABLES\CREATE TABLE.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\comprobante.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\SP_VENTAS.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_tmp_ventas.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_recaudacion.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_masivo_menu.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_ingreso_clientes.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_consulta_ventas_pag.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_comprobante_cierre.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_cierre_ventas.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_categoria.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_bebidas.sql=
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_adicionales.sql=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Windows\System32\oleaut32.dll=Yes
+C:\Windows\System32\olepro32.dll=Yes
+C:\Windows\System32\asycfilt.dll=Yes
+C:\Windows\System32\stdole2.tlb=Yes
+E:\Program File\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Windows\SysWOW64\mshtml.tlb=Yes
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=Yes
+C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Windows\System32\MSJET35.DLL=Yes
+C:\Windows\System32\MSJTER35.DLL=Yes
+C:\Windows\System32\MSJINT35.DLL=Yes
+C:\Windows\System32\vbajet32.dll=Yes
+C:\Windows\System32\expsrv.dll=Yes
+C:\Windows\System32\MSRD2X35.DLL=Yes
+C:\Windows\System32\MSREPL35.DLL=Yes
+E:\Program File\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Windows\System32\VB5DB.DLL=Yes
+C:\Windows\System32\sysmon.ocx=Yes
+C:\Windows\SysWOW64\MSDBRPTR.DLL=Yes
+C:\Windows\SysWOW64\MSSTDFMT.DLL=Yes
+C:\Windows\SysWOW64\STDFTES.DLL=Yes
+C:\Windows\SysWOW64\DBRPRES.DLL=Yes
+E:\Program File\VB98\Wizards\MSDATOBJ.DLL=Yes
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\dte80.olb=Yes
+E:\Program File\VB98\Wizards\PDWizard\PDADDIN.DLL=Yes
+C:\Windows\SysWOW64\FM20.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCTL.OCX=Yes
+C:\Windows\SysWOW64\MSCMCES.DLL=Yes
+C:\Windows\SysWOW64\COMCT332.OCX=Yes
+C:\Windows\SysWOW64\CMCT3ES.DLL=Yes
+C:\Windows\SysWOW64\MSCOMCT2.OCX=Yes
+C:\Windows\SysWOW64\MSCC2ES.DLL=Yes
+C:\Windows\SysWOW64\COMCT232.OCX=Yes
+C:\Windows\SysWOW64\CMCT2ES.DLL=Yes
+C:\Windows\SysWOW64\DBLIST32.OCX=Yes
+C:\Windows\SysWOW64\DBLSTES.DLL=Yes
+C:\Windows\SysWOW64\MSDATREP.OCX=Yes
+C:\Windows\SysWOW64\MSBIND.DLL=Yes
+C:\Windows\SysWOW64\DATRPES.DLL=Yes
+C:\Windows\SysWOW64\MSDATGRD.OCX=Yes
+C:\Windows\SysWOW64\DATGDES.DLL=Yes
+C:\Windows\SysWOW64\MSDATLST.OCX=Yes
+C:\Windows\SysWOW64\DATLSES.DLL=Yes
+C:\Windows\SysWOW64\MSCHRT20.OCX=Yes
+C:\Windows\SysWOW64\MSCH2ES.DLL=Yes
+C:\Windows\SysWOW64\MSADODC.OCX=Yes
+C:\Windows\SysWOW64\ADODCES.DLL=Yes
+C:\Windows\SysWOW64\MSCOMM32.OCX=Yes
+C:\Windows\SysWOW64\MSCOMES.DLL=Yes
+C:\Windows\SysWOW64\COMDLG32.OCX=Yes
+C:\Windows\SysWOW64\CMDLGES.DLL=Yes
+C:\Windows\SysWOW64\TABCTL32.OCX=Yes
+C:\Windows\SysWOW64\TABCTES.DLL=Yes
+C:\Windows\SysWOW64\COMCTL32.OCX=Yes
+C:\Windows\SysWOW64\CMCTLES.DLL=Yes
+E:\Program File\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Windows\System32\MSRDO20.DLL=Yes
+C:\Windows\System32\RDOCURS.DLL=Yes
+C:\Windows\System32\RDO20ES.DLL=Yes
+E:\Program File\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+E:\Program File\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+E:\Program File\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Proyecto_Burger.exe=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\login.ini=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\TABLES\CREATE TABLE.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\comprobante.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\SP_VENTAS.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_tmp_ventas.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_recaudacion.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_masivo_menu.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_ingreso_clientes.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_consulta_ventas_pag.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_comprobante_cierre.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_cierre_ventas.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_categoria.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_bebidas.sql=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_adicionales.sql=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\Proyectos\Company Omnimon\BREAK_BURG\Ejecutable\Proyecto_Burger.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Windows\System32\oleaut32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\olepro32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\asycfilt.dll=$(WinSysPathSysFile)
+C:\Windows\System32\stdole2.tlb=$(WinSysPathSysFile)
+E:\Program File\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\mshtml.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\System\ado\msado20.tlb=$(WinSysPath)
+C:\Program Files (x86)\Common Files\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\Windows\System32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\vbajet32.dll=$(WinSysPathSysFile)
+C:\Windows\System32\expsrv.dll=$(WinSysPathSysFile)
+C:\Windows\System32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\MSREPL35.DLL=$(WinSysPathSysFile)
+E:\Program File\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB5DB.DLL=$(WinSysPath)
+C:\Windows\System32\sysmon.ocx=$(WinSysPath)
+C:\Windows\SysWOW64\MSDBRPTR.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\STDFTES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\DBRPRES.DLL=$(WinSysPath)
+E:\Program File\VB98\Wizards\MSDATOBJ.DLL=$(WinSysPath)
+C:\Program Files (x86)\Common Files\Microsoft Shared\MSEnv\dte80.olb=$(WinSysPath)
+E:\Program File\VB98\Wizards\PDWizard\PDADDIN.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\FM20.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCMCES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMCT332.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMCT3ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMCT2.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCC2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMCT232.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMCT2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\DBLIST32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DBLSTES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATREP.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSBIND.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\DATRPES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DATGDES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\DATLSES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCHRT20.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCH2ES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSADODC.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\ADODCES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMM32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\MSCOMES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMDLGES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\TABCTES.DLL=$(WinSysPath)
+C:\Windows\SysWOW64\COMCTL32.OCX=$(WinSysPath)
+C:\Windows\SysWOW64\CMCTLES.DLL=$(WinSysPath)
+E:\Program File\VB98\Wizards\DATAFORM.OCX=$(WinSysPath)
+E:\Program File\VB98\Wizards\CHARTWIZ.OCX=$(WinSysPath)
+E:\Program File\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Windows\System32\MSRDO20.DLL=$(WinSysPath)
+C:\Windows\System32\RDOCURS.DLL=$(WinSysPath)
+C:\Windows\System32\RDO20ES.DLL=$(WinSysPath)
+E:\Program File\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+E:\Program File\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+E:\Program File\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Proyecto_Burger.exe=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\login.ini=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\TABLES\CREATE TABLE.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\comprobante.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\SP_VENTAS.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_tmp_ventas.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_recaudacion.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_masivo_menu.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_ingreso_clientes.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_consulta_ventas_pag.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_comprobante_cierre.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_cierre_ventas.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_categoria.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_bebidas.sql=$(AppPath)
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_adicionales.sql=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\Proyectos\Company Omnimon\BREAK_BURG\Ejecutable\Proyecto_Burger.exe=No
+E:\Program File\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Proyecto_Burger.exe=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\login.ini=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\TABLES\CREATE TABLE.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\comprobante.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\SP_VENTAS.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_tmp_ventas.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_recaudacion.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_masivo_menu.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_ingreso_clientes.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_consulta_ventas_pag.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_comprobante_cierre.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_cierre_ventas.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_categoria.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_bebidas.sql=No
+D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\DB\STORE PROCEDURE\sp_adicionales.sql=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=SIAN
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=SIAN
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|SIAN]
+Icon1=Proyecto_Burger.exe
+Title1=SIAN
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Instalador
+ProjectFolder=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger
+ServerSideCab=
+File1=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Instalador\setup.exe
+File2=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Instalador\Setup.Lst
+File3=D:\Proyectos\Company Omnimon\BREAK_BURG\Break Burger\Instalador\Proyecto_Burger.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
